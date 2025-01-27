@@ -12,6 +12,7 @@ type Limiter struct {
 	mu         sync.Mutex
 }
 
+// New creates a new rate limiter.
 func New(limit int, window time.Duration) *Limiter {
 	return &Limiter{
 		limit:      limit,

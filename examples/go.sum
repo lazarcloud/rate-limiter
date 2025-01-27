@@ -1,2 +1,4 @@
 github.com/lazarcloud/rate-limiter v0.0.0-20250127101359-54b256e238c3 h1:kJRRX7upp7J8j682tMDjxKT4CJhhoea9Fl6W5bjNuLQ=
 github.com/lazarcloud/rate-limiter v0.0.0-20250127101359-54b256e238c3/go.mod h1:jHt1TqXY0yjAutDaOS2fp6cnzUXFUVs0NuC4npW1kfI=
+github.com/lazarcloud/rate-limiter v0.1.0 h1:dfCegM0UQLa5dZAYo4gEPtEaBG0+s84B91s9MryxjVA=
+github.com/lazarcloud/rate-limiter v0.1.0/go.mod h1:jHt1TqXY0yjAutDaOS2fp6cnzUXFUVs0NuC4npW1kfI=
